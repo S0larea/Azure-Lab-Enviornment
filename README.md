@@ -56,7 +56,7 @@ The playbook implements the following tasks:
 - These containers are able to run ansible
 - Playbooks are then connected to each VM via private IPs being implemented into cfg files.
 
-The following screenshot displays the result of running 'docker ps' after successfully configuring the ELK instance.
+The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
 ![](ansible/ELK/Docker-ps.png)
 
