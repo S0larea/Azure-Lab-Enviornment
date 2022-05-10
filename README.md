@@ -42,7 +42,7 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box |         No          |     68.49.45.210     |
+| Jump Box |         No          |       $HOST_IP       |
 
 ### Elk Configuration
 
