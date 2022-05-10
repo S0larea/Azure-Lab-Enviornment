@@ -33,7 +33,7 @@ The configuration details of each machine may be found below.
 The machines on the internal network are not exposed to the public Internet. 
 
 Only the Red-Jump (jumpbox) machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-- 68.49.45.210 the host network
+- $HOST_IP would be the IP used for the Red-Jump box. Find your own IP through https://www.whatsmyip.org/
 
 Machines within the network can only be accessed by a Jumpxod through docker containers.
 - The jumpbox IP 20.248.193.170 which could then allow access to the cointainers and rest of the VMs through SSH conneciton
