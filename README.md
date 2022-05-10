@@ -42,7 +42,10 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box |         No          |       $HOST_IP       |
+| Jump Box |         Yes         |        $HOST_IP      |
+| ELK      |          No         |   10.0.0.5-10.0.0.6  |
+| DVWA 1   |          No         |        10.0.0.4      |
+| DVWA 2   |          No         |        10.0.0.4      |
 
 ### Elk Configuration
 
