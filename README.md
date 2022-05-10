@@ -26,7 +26,7 @@ The configuration details of each machine may be found below.
 | Jump Box | Gateway  | Pub: 20.248.193.170 Priv: 10.0.0.4  | Linux            |
 | Web-1    | Web Server | Priv:10.0.0.5 | Linux            |
 | Web-2    | Web Server | Priv: 10.0.0.6 | Linux            |
-| ELK      | ELK server | Pub: 20.210.232.212 Priv:10.1.0.4 | Linux            |
+| ELK      | Monitor | Pub: 20.210.232.212 Priv:10.1.0.4 | Linux            |
 
 ### Access Policies
 
